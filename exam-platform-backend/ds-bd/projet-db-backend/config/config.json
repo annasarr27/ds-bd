@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "root",
+        "password": "Cheikhahmed@ndour",
+        "database": "gestion_examens",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "Cheikhahmed@ndour",
+        "database": "gestion_examens",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "Cheikhahmed@ndour",
+        "database": "gestion_examens",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
